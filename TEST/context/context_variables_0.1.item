@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><xmi:XMI xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:version="2.0">
+  <talendfile:ContextType confirmationNeeded="false" name="Default" xmi:id="_y5XeYOQ_Eem_QbJFr6Lrpw">
+    <contextParameter comment="" name="tempbulkfolder" prompt="tempbulkfolder?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_y5XeYeQ_Eem_QbJFr6Lrpw"/>
+    <contextParameter comment="" name="client" prompt="client?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_y5XeYuQ_Eem_QbJFr6Lrpw"/>
+    <contextParameter comment="" name="dm" prompt="dm?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_y5XeY-Q_Eem_QbJFr6Lrpw"/>
+    <contextParameter comment="" name="Status" prompt="Status?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_y5XeZOQ_Eem_QbJFr6Lrpw"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="DEV" xmi:id="_y5XeZeQ_Eem_QbJFr6Lrpw">
+    <contextParameter comment="" name="tempbulkfolder" prompt="tempbulkfolder?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="c:/temp/" xmi:id="_y5XeZuQ_Eem_QbJFr6Lrpw"/>
+    <contextParameter comment="" name="client" prompt="client?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="Test" xmi:id="_y5XeZ-Q_Eem_QbJFr6Lrpw"/>
+    <contextParameter comment="" name="dm" prompt="dm?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="Dev" xmi:id="_y5XeaOQ_Eem_QbJFr6Lrpw"/>
+    <contextParameter comment="" name="Status" prompt="Status?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_y5XeaeQ_Eem_QbJFr6Lrpw"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="Sample" xmi:id="_y5XeauQ_Eem_QbJFr6Lrpw">
+    <contextParameter comment="" name="tempbulkfolder" prompt="tempbulkfolder?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="c:/temp/" xmi:id="_y5Xea-Q_Eem_QbJFr6Lrpw"/>
+    <contextParameter comment="" name="client" prompt="client?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="Test" xmi:id="_y5XebOQ_Eem_QbJFr6Lrpw"/>
+    <contextParameter comment="" name="dm" prompt="dm?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="Partial" xmi:id="_y5XebeQ_Eem_QbJFr6Lrpw"/>
+    <contextParameter comment="" name="Status" prompt="Status?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_y5XebuQ_Eem_QbJFr6Lrpw"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="UAT1" xmi:id="_y5Xeb-Q_Eem_QbJFr6Lrpw">
+    <contextParameter comment="" name="tempbulkfolder" prompt="tempbulkfolder?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="c:/temp/" xmi:id="_y5XecOQ_Eem_QbJFr6Lrpw"/>
+    <contextParameter comment="" name="client" prompt="client?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="Test" xmi:id="_y5XeceQ_Eem_QbJFr6Lrpw"/>
+    <contextParameter comment="" name="dm" prompt="dm?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="UAT1" xmi:id="_y5XecuQ_Eem_QbJFr6Lrpw"/>
+    <contextParameter comment="" name="Status" prompt="Status?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_y5Xec-Q_Eem_QbJFr6Lrpw"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="UAT2" xmi:id="_y5XedOQ_Eem_QbJFr6Lrpw">
+    <contextParameter comment="" name="tempbulkfolder" prompt="tempbulkfolder?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="c:/temp/" xmi:id="_y5XedeQ_Eem_QbJFr6Lrpw"/>
+    <contextParameter comment="" name="client" prompt="client?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="Test" xmi:id="_y5XeduQ_Eem_QbJFr6Lrpw"/>
+    <contextParameter comment="" name="dm" prompt="dm?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="UAT2" xmi:id="_y5Xed-Q_Eem_QbJFr6Lrpw"/>
+    <contextParameter comment="" name="Status" prompt="Status?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_y5XeeOQ_Eem_QbJFr6Lrpw"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="Production" xmi:id="_y5XeeeQ_Eem_QbJFr6Lrpw">
+    <contextParameter comment="" name="tempbulkfolder" prompt="tempbulkfolder?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="c:/temp/" xmi:id="_y5XeeuQ_Eem_QbJFr6Lrpw"/>
+    <contextParameter comment="" name="client" prompt="client?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="Test" xmi:id="_y5Xee-Q_Eem_QbJFr6Lrpw"/>
+    <contextParameter comment="" name="dm" prompt="dm?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="Production" xmi:id="_y5XefOQ_Eem_QbJFr6Lrpw"/>
+    <contextParameter comment="" name="Status" prompt="Status?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_y5XefeQ_Eem_QbJFr6Lrpw"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="Production_Delta" xmi:id="_u0afYEt0EeycRJ0QuzuXEg">
+    <contextParameter comment="" name="tempbulkfolder" prompt="tempbulkfolder?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="c:/temp/" xmi:id="_u0afYUt0EeycRJ0QuzuXEg"/>
+    <contextParameter comment="" name="client" prompt="client?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="Test" xmi:id="_u0afYkt0EeycRJ0QuzuXEg"/>
+    <contextParameter comment="" name="dm" prompt="dm?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="Production_Delta" xmi:id="_u0afY0t0EeycRJ0QuzuXEg"/>
+    <contextParameter comment="" name="Status" prompt="Status?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_u0afZEt0EeycRJ0QuzuXEg"/>
+  </talendfile:ContextType>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_2e87fded-f304-4bc7-a09a-8c57752dc0c9"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>oygBqpnwJDKhUg05x1bkOPrqeFSwUt3UrVUf+WeGcScgms4hR70dCy+Kev1e17wlK3WVW/M8H5gi&#13;
+oG5IhXbkFg==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_16e27432-3683-49d8-8ddd-b41e2a9f866f"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>mGkwfyGMPzkDtL7KQ3dmK9eYDgaNwJ4ngRlFR/3AEoBj+htEqiRiqBaZuLAOgmShPyat1jGP90kC&#13;
+lyfND8cJNg==</DigestValue></Reference></SignedInfo><SignatureValue>fjnWCELznh/T+C6/6awNvTLUX860I9QkT8RZwGXaWgziJPjOHsmgyKq3Jm0dCxrlut649MDEbJll&#13;
+XrZGLk4KyzBRL2bsbvaGXz0DboD9MnQYUJZz7lZ+gbyAR+LG9KGA4hd2fIe9XOGRyLV8bqDJuyYa&#13;
+ib7DU6fX1XUNIW6Rj/i/1mNfLpADLSNjCHgF8Wlk5DpemztF7FLulb5+rsXUvKniXQLSn9wHiUf+&#13;
+i6YCFyMJR40vP8Jt7JqFYBI65UmbOetz/L+gd3AR4ybA6tgFdW13upd2sJHZmUEKUn2/X5T0C0lv&#13;
+mg7TW0S+hG6a5ZhejkZN0hHJlEj6/t/3nu3tmA==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w&#13;
+DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD&#13;
+VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5&#13;
+QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U&#13;
+YWxlbmQgQ29kZSBTaWduaW5nIGNlcnRpZmljYXRlMQwwCgYDVQQLDANSJkQxFDASBgNVBAoTC1Rh&#13;
+bGVuZCBJbmMuMQ4wDAYDVQQHEwVQYXJpczEOMAwGA1UECBMFUGFyaXMxCzAJBgNVBAYTAkZSMIIB&#13;
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp5TMF8BmRt8dY51t9kIDdDkoOKVVytJN2gn2&#13;
+DhMGi8hzpUofNDykJDhe9SPqyJdGZ6o/h7laTA0/CivKyPT1OJQ9E2gMHKs8cTZM/cO2w0Atlqkl&#13;
+alIxepol0DNnUtmECVBqdnVsJesfmdoeptxgJAtxYbquFsTsrATNY2cscXpwmOca/Ewip48WQLFx&#13;
+e5s067jaIsAQGRIqpIup3bOtWBySrtImJ40lQCPeEcl96qzkv3utaVaNc3ukkhYkCDbMbK8NVd1B&#13;
+CVeeIBAe+n/SdpHH20o+6eIiZecsBGDLwlTYrFvuVqAa6xI7y8Vdz6irjPAVBEtG/iOc782aJ/lZ&#13;
+TwIDAQABo3UwczAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggrBgEF&#13;
+BQcDAzAdBgNVHQ4EFgQUGdfzQEbjQnANq28sfhEMTx+rsOcwHwYDVR0jBBgwFoAU530Lcvy1gZnG&#13;
+gCvZLOyCczK1qPcwDQYJKoZIhvcNAQELBQADggIBAEr22wnaQwZm2dhbUCqD+qZpTq2AF/tzxqAM&#13;
+eL/CiTjPbTblS4SNNwCKvTgMe9ucpUbenXmK7xE+DU9dN4om+t3VHbkOLQVyuLcd2WGsy7ZGwRvA&#13;
+f+TFwLbwjyTukOGm6Sd1qyZgvCPzBsKnft6vscvGy2yEpmFCeHJyBP8pvchg607zguRdNbkGYZXw&#13;
+G6jNipAbTtzdPTFKKr1bEf0sUGqMrlZIMPjflh2Vewu8ImNdX5IZdvBD6DdFVOC5wqV6u+W9ukE/&#13;
+mXZxDBYNl2AF7FTh04ucEVN3mHv7m2L0uFvUlhxchcagJhJsdQG+A0LVCemHbp6CSNQJx02KxqUG&#13;
+hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/&#13;
+WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW&#13;
+gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+&#13;
+qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg&#13;
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_16e27432-3683-49d8-8ddd-b41e2a9f866f" Target="#_2e87fded-f304-4bc7-a09a-8c57752dc0c9"><Timestamp>2022-03-25 15:12:35</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></xmi:XMI>
