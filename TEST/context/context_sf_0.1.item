@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><talendfile:ContextType xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmlns:xmi="http://www.omg.org/XMI" confirmationNeeded="false" name="Default" xmi:id="_k6WvQKxGEey5eu4aiJfQrg" xmi:version="2.0">
+  <contextParameter comment="" name="sf_oauth2JwtFlow_subject" prompt="sf_oauth2JwtFlow_subject?" promptNeeded="false" repositoryContextId="" type="id_String" value="" xmi:id="_k6WvQaxGEey5eu4aiJfQrg"/>
+  <contextParameter comment="" name="sf_oauth2JwtFlow_issuer" prompt="sf_oauth2JwtFlow_issuer?" promptNeeded="false" repositoryContextId="" type="id_String" value="" xmi:id="_k6WvQqxGEey5eu4aiJfQrg"/>
+  <contextParameter comment="" name="sf_oauth2JwtFlow_certificateAlias" prompt="sf_oauth2JwtFlow_certificateAlias?" promptNeeded="false" repositoryContextId="" type="id_String" value="" xmi:id="_k6WvQ6xGEey5eu4aiJfQrg"/>
+  <contextParameter comment="" name="sf_oauth_clientId" prompt="sf_oauth_clientId?" promptNeeded="false" repositoryContextId="" type="id_String" value="" xmi:id="_k6WvRKxGEey5eu4aiJfQrg"/>
+  <contextParameter comment="" name="sf_sslProperties_keyStorePath" prompt="sf_sslProperties_keyStorePath?" promptNeeded="false" repositoryContextId="" type="id_String" value="" xmi:id="_k6WvRaxGEey5eu4aiJfQrg"/>
+  <contextParameter comment="" name="sf_oauth2JwtFlow_audience" prompt="sf_oauth2JwtFlow_audience?" promptNeeded="false" repositoryContextId="" type="id_String" value="https://login.salesforce.com" xmi:id="_k6WvRqxGEey5eu4aiJfQrg"/>
+  <contextParameter comment="" name="sf_userPassword_securityKey" prompt="sf_userPassword_securityKey?" promptNeeded="false" repositoryContextId="" type="id_Password" value="enc:system.encryption.key.v1:lJfPrvq0kgAohX0OXI/VwqQcBndJk048W9SNOikZ302O5G9g/YfgD67WxVUbDi0yk/pkfw==" xmi:id="_k6WvR6xGEey5eu4aiJfQrg"/>
+  <contextParameter comment="" name="sf_oauth_callbackPort" prompt="sf_oauth_callbackPort?" promptNeeded="false" repositoryContextId="" type="id_Integer" value="" xmi:id="_k6WvSKxGEey5eu4aiJfQrg"/>
+  <contextParameter comment="" name="sf_clientId" prompt="sf_clientId?" promptNeeded="false" repositoryContextId="" type="id_String" value="" xmi:id="_k6WvSaxGEey5eu4aiJfQrg"/>
+  <contextParameter comment="" name="sf_timeout" prompt="sf_timeout?" promptNeeded="false" repositoryContextId="" type="id_Integer" value="60000" xmi:id="_k6WvSqxGEey5eu4aiJfQrg"/>
+  <contextParameter comment="" name="sf_sessionDirectory" prompt="sf_sessionDirectory?" promptNeeded="false" repositoryContextId="" type="id_String" value="" xmi:id="_k6WvS6xGEey5eu4aiJfQrg"/>
+  <contextParameter comment="" name="sf_proxy_userPassword_password" prompt="sf_proxy_userPassword_password?" promptNeeded="false" repositoryContextId="" type="id_Password" value="" xmi:id="_k6WvTKxGEey5eu4aiJfQrg"/>
+  <contextParameter comment="" name="sf_oauth_tokenFile" prompt="sf_oauth_tokenFile?" promptNeeded="false" repositoryContextId="" type="id_String" value="" xmi:id="_k6WvTaxGEey5eu4aiJfQrg"/>
+  <contextParameter comment="" name="sf_userPassword_userId" prompt="sf_userPassword_userId?" promptNeeded="false" repositoryContextId="" type="id_String" value="jaymithal@outlook.com" xmi:id="_k6WvTqxGEey5eu4aiJfQrg"/>
+  <contextParameter comment="" name="sf_proxy_userPassword_userId" prompt="sf_proxy_userPassword_userId?" promptNeeded="false" repositoryContextId="" type="id_String" value="" xmi:id="_k6WvT6xGEey5eu4aiJfQrg"/>
+  <contextParameter comment="" name="sf_oauth2JwtFlow_expirationTime" prompt="sf_oauth2JwtFlow_expirationTime?" promptNeeded="false" repositoryContextId="" type="id_Integer" value="" xmi:id="_k6WvUKxGEey5eu4aiJfQrg"/>
+  <contextParameter comment="" name="sf_userPassword_password" prompt="sf_userPassword_password?" promptNeeded="false" repositoryContextId="" type="id_Password" value="enc:system.encryption.key.v1:K8tyuIYWlJrDCkyqO9xGzs54sY38gsTgjIBBOeZ3UKAwwM8ZObjz" xmi:id="_k6WvUaxGEey5eu4aiJfQrg"/>
+  <contextParameter comment="" name="sf_oauth2JwtFlow_keyStore" prompt="sf_oauth2JwtFlow_keyStore?" promptNeeded="false" repositoryContextId="" type="id_String" value="" xmi:id="_k6WvUqxGEey5eu4aiJfQrg"/>
+  <contextParameter comment="" name="sf_sslProperties_keyStorePwd" prompt="sf_sslProperties_keyStorePwd?" promptNeeded="false" repositoryContextId="" type="id_Password" value="" xmi:id="_k6WvU6xGEey5eu4aiJfQrg"/>
+  <contextParameter comment="" name="sf_endpoint" prompt="sf_endpoint?" promptNeeded="false" repositoryContextId="" type="id_String" value="https://login.salesforce.com/services/Soap/u/52.0" xmi:id="_k6WvVKxGEey5eu4aiJfQrg"/>
+  <contextParameter comment="" name="sf_proxy_port" prompt="sf_proxy_port?" promptNeeded="false" repositoryContextId="" type="id_Integer" value="" xmi:id="_k6WvVaxGEey5eu4aiJfQrg"/>
+  <contextParameter comment="" name="sf_proxy_host" prompt="sf_proxy_host?" promptNeeded="false" repositoryContextId="" type="id_String" value="" xmi:id="_k6WvVqxGEey5eu4aiJfQrg"/>
+  <contextParameter comment="" name="sf_oauth_callbackHost" prompt="sf_oauth_callbackHost?" promptNeeded="false" repositoryContextId="" type="id_String" value="" xmi:id="_k6WvV6xGEey5eu4aiJfQrg"/>
+  <contextParameter comment="" name="sf_oauth_clientSecret" prompt="sf_oauth_clientSecret?" promptNeeded="false" repositoryContextId="" type="id_Password" value="" xmi:id="_k6WvWKxGEey5eu4aiJfQrg"/>
+  <contextParameter comment="" name="sf_oauth2JwtFlow_keyStorePassword" prompt="sf_oauth2JwtFlow_keyStorePassword?" promptNeeded="false" repositoryContextId="" type="id_Password" value="" xmi:id="_k6WvWaxGEey5eu4aiJfQrg"/>
+  <contextParameter comment="" name="sf_apiVersion" prompt="sf_apiVersion?" promptNeeded="false" repositoryContextId="" type="id_String" value="52.0" xmi:id="_k6WvWqxGEey5eu4aiJfQrg"/>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_f536b73f-78b7-44bf-a14f-8fe498bb977a"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>CTQI82b0C8Rf2CTeMCRltoTfD/PtUTODfNL8RTdzDI9RWsmfOyravgi8XoyzdRZA0ZDvEpah9lTD&#13;
+54c2WwVFJw==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_809e5371-dc56-4a08-a733-b80b93219f8e"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>SvvKL11Tr/OVXoRPf1DdbJjhys8Sn7W/HUXU1mFJHdWjzgXVJmyoHzBuFjnqy53NexOJL4uw2Jc7&#13;
+v4OzlGDaug==</DigestValue></Reference></SignedInfo><SignatureValue>D51JpcvrSgLItl/epbhAaeduov0xYMMikZ/en4qIbkPSacbtQsrzA8Id6QAoBuqYqczk77sxc1zQ&#13;
+AlRpp5zgBmgWhNQuPTnYzNI2PQ/M15xcgsGbp344WfoZEsmKu1f8pU/UbfXOoePCJsWkRo1o6EwS&#13;
+bMKP5rxVZvvwAKodBB+nevv8UiLiEjUb6+Pk2e46NwRPk6K83KYNYxGBoW8CLojepACckveDoKuL&#13;
+aWsKaRhH16ty8U7Hby5TGUAXgDyrH/XH4ZmR8+ZMoyPI82PChu/xvgos/l69QoMeA6YEkrdoVsXn&#13;
+7MXOn44ahKu7GKJWKxYuP8cQzbRZH2CRiAy0Aw==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w&#13;
+DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD&#13;
+VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5&#13;
+QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U&#13;
+YWxlbmQgQ29kZSBTaWduaW5nIGNlcnRpZmljYXRlMQwwCgYDVQQLDANSJkQxFDASBgNVBAoTC1Rh&#13;
+bGVuZCBJbmMuMQ4wDAYDVQQHEwVQYXJpczEOMAwGA1UECBMFUGFyaXMxCzAJBgNVBAYTAkZSMIIB&#13;
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp5TMF8BmRt8dY51t9kIDdDkoOKVVytJN2gn2&#13;
+DhMGi8hzpUofNDykJDhe9SPqyJdGZ6o/h7laTA0/CivKyPT1OJQ9E2gMHKs8cTZM/cO2w0Atlqkl&#13;
+alIxepol0DNnUtmECVBqdnVsJesfmdoeptxgJAtxYbquFsTsrATNY2cscXpwmOca/Ewip48WQLFx&#13;
+e5s067jaIsAQGRIqpIup3bOtWBySrtImJ40lQCPeEcl96qzkv3utaVaNc3ukkhYkCDbMbK8NVd1B&#13;
+CVeeIBAe+n/SdpHH20o+6eIiZecsBGDLwlTYrFvuVqAa6xI7y8Vdz6irjPAVBEtG/iOc782aJ/lZ&#13;
+TwIDAQABo3UwczAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggrBgEF&#13;
+BQcDAzAdBgNVHQ4EFgQUGdfzQEbjQnANq28sfhEMTx+rsOcwHwYDVR0jBBgwFoAU530Lcvy1gZnG&#13;
+gCvZLOyCczK1qPcwDQYJKoZIhvcNAQELBQADggIBAEr22wnaQwZm2dhbUCqD+qZpTq2AF/tzxqAM&#13;
+eL/CiTjPbTblS4SNNwCKvTgMe9ucpUbenXmK7xE+DU9dN4om+t3VHbkOLQVyuLcd2WGsy7ZGwRvA&#13;
+f+TFwLbwjyTukOGm6Sd1qyZgvCPzBsKnft6vscvGy2yEpmFCeHJyBP8pvchg607zguRdNbkGYZXw&#13;
+G6jNipAbTtzdPTFKKr1bEf0sUGqMrlZIMPjflh2Vewu8ImNdX5IZdvBD6DdFVOC5wqV6u+W9ukE/&#13;
+mXZxDBYNl2AF7FTh04ucEVN3mHv7m2L0uFvUlhxchcagJhJsdQG+A0LVCemHbp6CSNQJx02KxqUG&#13;
+hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/&#13;
+WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW&#13;
+gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+&#13;
+qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg&#13;
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_809e5371-dc56-4a08-a733-b80b93219f8e" Target="#_f536b73f-78b7-44bf-a14f-8fe498bb977a"><Timestamp>2022-03-25 15:19:26</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></talendfile:ContextType>

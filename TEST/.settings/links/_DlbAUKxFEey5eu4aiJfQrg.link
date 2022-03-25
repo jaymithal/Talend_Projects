@@ -1,0 +1,86 @@
+{
+  "itemId" : "_DlbAUKxFEey5eu4aiJfQrg",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_k6FpgKxGEey5eu4aiJfQrg",
+    "parameterList" : [ {
+      "id" : "_k6WvQaxGEey5eu4aiJfQrg",
+      "name" : "sf_oauth2JwtFlow_subject"
+    }, {
+      "id" : "_k6WvQqxGEey5eu4aiJfQrg",
+      "name" : "sf_oauth2JwtFlow_issuer"
+    }, {
+      "id" : "_k6WvQ6xGEey5eu4aiJfQrg",
+      "name" : "sf_oauth2JwtFlow_certificateAlias"
+    }, {
+      "id" : "_k6WvRKxGEey5eu4aiJfQrg",
+      "name" : "sf_oauth_clientId"
+    }, {
+      "id" : "_k6WvRaxGEey5eu4aiJfQrg",
+      "name" : "sf_sslProperties_keyStorePath"
+    }, {
+      "id" : "_k6WvRqxGEey5eu4aiJfQrg",
+      "name" : "sf_oauth2JwtFlow_audience"
+    }, {
+      "id" : "_k6WvR6xGEey5eu4aiJfQrg",
+      "name" : "sf_userPassword_securityKey"
+    }, {
+      "id" : "_k6WvSKxGEey5eu4aiJfQrg",
+      "name" : "sf_oauth_callbackPort"
+    }, {
+      "id" : "_k6WvSaxGEey5eu4aiJfQrg",
+      "name" : "sf_clientId"
+    }, {
+      "id" : "_k6WvSqxGEey5eu4aiJfQrg",
+      "name" : "sf_timeout"
+    }, {
+      "id" : "_k6WvS6xGEey5eu4aiJfQrg",
+      "name" : "sf_sessionDirectory"
+    }, {
+      "id" : "_k6WvTKxGEey5eu4aiJfQrg",
+      "name" : "sf_proxy_userPassword_password"
+    }, {
+      "id" : "_k6WvTaxGEey5eu4aiJfQrg",
+      "name" : "sf_oauth_tokenFile"
+    }, {
+      "id" : "_k6WvTqxGEey5eu4aiJfQrg",
+      "name" : "sf_userPassword_userId"
+    }, {
+      "id" : "_k6WvT6xGEey5eu4aiJfQrg",
+      "name" : "sf_proxy_userPassword_userId"
+    }, {
+      "id" : "_k6WvUKxGEey5eu4aiJfQrg",
+      "name" : "sf_oauth2JwtFlow_expirationTime"
+    }, {
+      "id" : "_k6WvUaxGEey5eu4aiJfQrg",
+      "name" : "sf_userPassword_password"
+    }, {
+      "id" : "_k6WvUqxGEey5eu4aiJfQrg",
+      "name" : "sf_oauth2JwtFlow_keyStore"
+    }, {
+      "id" : "_k6WvU6xGEey5eu4aiJfQrg",
+      "name" : "sf_sslProperties_keyStorePwd"
+    }, {
+      "id" : "_k6WvVKxGEey5eu4aiJfQrg",
+      "name" : "sf_endpoint"
+    }, {
+      "id" : "_k6WvVaxGEey5eu4aiJfQrg",
+      "name" : "sf_proxy_port"
+    }, {
+      "id" : "_k6WvVqxGEey5eu4aiJfQrg",
+      "name" : "sf_proxy_host"
+    }, {
+      "id" : "_k6WvV6xGEey5eu4aiJfQrg",
+      "name" : "sf_oauth_callbackHost"
+    }, {
+      "id" : "_k6WvWKxGEey5eu4aiJfQrg",
+      "name" : "sf_oauth_clientSecret"
+    }, {
+      "id" : "_k6WvWaxGEey5eu4aiJfQrg",
+      "name" : "sf_oauth2JwtFlow_keyStorePassword"
+    }, {
+      "id" : "_k6WvWqxGEey5eu4aiJfQrg",
+      "name" : "sf_apiVersion"
+    } ]
+  } ]
+}
